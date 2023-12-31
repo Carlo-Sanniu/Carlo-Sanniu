@@ -1,7 +1,7 @@
 👋 Hi, I’m Carlo Sanniu
 
 <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" width="100px" height="100px" alt="Icona HTML">
-<img src="https://miro.medium.com/max/8400/1*kUcnzFjf1UJBKHE8oj5c6g.jpeg" width="200px" height="100px" alt="Icona HTML">
+<img src="https://miro.medium.com/max/8400/1*kUcnzFjf1UJBKHE8oj5c6g.jpeg" width="150px" height="100px" alt="Icona HTML">
 
 
 <!---
